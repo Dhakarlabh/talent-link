@@ -11,7 +11,6 @@ import java.util.Map;
 @Getter
 @Setter
 @NoArgsConstructor
-
 @Document(collection = "company-information")
 public class CompanyInformation {
 
