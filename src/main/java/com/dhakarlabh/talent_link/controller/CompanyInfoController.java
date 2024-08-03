@@ -12,7 +12,7 @@ import static com.dhakarlabh.talent_link.constants.ControllerConstants.API;
 import static com.dhakarlabh.talent_link.constants.ControllerConstants.COMPANY;
 
 @RestController
-public class Controller {
+public class CompanyInfoController {
 
     @Autowired
     MongoTemplate mongoTemplate;
