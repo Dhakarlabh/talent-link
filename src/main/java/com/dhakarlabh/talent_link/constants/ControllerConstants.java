@@ -6,5 +6,6 @@ public class ControllerConstants {
     public static final String API = "/api";
     public static final String COMPANY = "/company";
     public static final String STUDENT = "/student";
+    public static final String TPR = "/tpr";
 
 }
