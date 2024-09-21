@@ -2,4 +2,4 @@
 
 ## Application used for managing the training and placements process of a college.
 
-z
+This application consist student information, tpr information, and the company information.
